@@ -1,7 +1,6 @@
 # Kyloo's Bio!
 <html>
 <head>
-    <title>Redirect Button</title>
 </head>
 <body>
 
